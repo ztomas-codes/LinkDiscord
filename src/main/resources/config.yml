@@ -1,0 +1,6 @@
+token: type_discord_token
+channelID: type_bot_spam_channel_id
+channelName: type_bot_spam_channel_name
+guildID: type_guild_id
+groups: #List of groups that will be removed or added in discord (discord role and luckeprms group has to be the same name)
+  - "VIP"

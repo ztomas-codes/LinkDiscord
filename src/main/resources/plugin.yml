@@ -1,0 +1,9 @@
+name: LinkDiscord
+version: ${project.version}
+main: me.lordmefloun.LordMefloun
+authors: [ LordMefloun ]
+api-version: 1.13
+
+commands:
+  dlink:
+      description: Main command for plugin
